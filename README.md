@@ -38,7 +38,22 @@ EP.4 สอนบันทึกและอ่านข้อมูลกลั
     Dictionary
     บันทึกข้อมูลลงไฟล์ CSV
     
-    
+EP.5
+     - การใช้งาน PIP
+     - พื้นฐาน Python ทั่วไป
+     - list
+     - dictionary
+     - for loop, while loop
+     - if condition
+     
+...
+ การใช้งาน PIP
+     - pip install ....
+     - python -m pip install ...
+     - "C:\python311\python.exe" -m pip install
+     
+ -ใช้ ChatGPT  เรียก ai.com sign in google preeda.sst@gmail.com
+ 
     
     
     
