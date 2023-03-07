@@ -40,11 +40,12 @@ EP.4 สอนบันทึกและอ่านข้อมูลกลั
     
 EP.5
      - การใช้งาน PIP
+     -ปัญหาเกิดกับ PIP
      - พื้นฐาน Python ทั่วไป
      - list
      - dictionary
-     - for loop, while loop
-     - if condition
+     - for loop, while loop               for loop ทำอะไรซ้ำๆ ,while loop ทำงานเมื่อเงื่อนไขเป็นจริง
+     - if condition                        
      
 ...
  การใช้งาน PIP
@@ -53,7 +54,10 @@ EP.5
      - "C:\python311\python.exe" -m pip install
      
  -ใช้ ChatGPT  เรียก ai.com sign in google preeda.sst@gmail.com
- 
+ -เทคนิคการหาหนังสือหรือ slide 
+     google dork commands
+     https://www.cp.eng.chula.ac.th/books/python101/
+     
     
     
     
