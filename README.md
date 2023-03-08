@@ -67,6 +67,9 @@ EP.6
                - Method
             Instance
       - Constructor
+      - กาสืบทอดคลาส
+      - ตัวอย่าง code
+      
       
           
     
