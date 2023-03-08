@@ -59,6 +59,15 @@ EP.5
      https://www.cp.eng.chula.ac.th/books/python101/
      
     
-    
+EP.6
+     - Class & Object
+     - สร้าง Class เบื้องต้น
+          - Class
+               - Attribute
+               - Method
+            Instance
+      - Constructor
+      
+          
     
       
